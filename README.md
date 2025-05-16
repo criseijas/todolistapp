@@ -41,7 +41,6 @@ Este proyecto está bajo la licencia MIT.
 
 ## 👤 Autor
 Cristina Seijas
-
 📧 cris78seijas@gmail.com
 
-🔗 LinkedIn • GitHub
+
